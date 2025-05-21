@@ -3,13 +3,12 @@ This project explores global mental health trends from 1990 to 2019 using a data
 The dashboard visualizes disorder prevalence, tracks year-over-year trends, and highlights regional differences. Its goal is to provide stakeholders, such as global health researchers or policy analysts, with a high-level overview of how mental health has evolved worldwide.
 
 # Dataset Description
-Column Name	Description
-Country	Name of the country
-Continent	Continent the country belongs to
-Year of observation (1990–2019)
-Disorder Type of mental health disorder
-Share of Population of the population affected by the disorder
-
+The main database structure, as seen below, consists of one table: table1, with a total row count of 30,600 records. A description of the table is as follows:
+* Countries
+* Continent
+* Year
+* Disorder
+* Share of population
 # Key Visualizations
 
 Top 5 Countries with highest mental health prevalence
