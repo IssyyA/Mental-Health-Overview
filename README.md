@@ -11,7 +11,7 @@ The main database structure, as seen below, consists of one table: table1, with 
 * Share of population
 # Key Visualizations
 
-Top 5 Countries with highest mental health prevalence
+Top 5 Countries with the highest mental health prevalence
 
 Disorder Impact Map showing global distribution
 
@@ -29,7 +29,7 @@ Portugal, New Zealand, and Palestine recorded the highest mental health prevalen
 Anxiety and Depression are the most prevalent disorders globally, making up the largest share of mental health issues.
 
 3. Global Trends Over Time
-Mental health prevalence has slightly increased from 1990 to 2019, with cyclical rises and dips in the early 2000s.
+Mental health prevalence increased from 1990 to 2019, with cyclical rises and dips in the early 2000s.
 
 # Recommendations
 Policy Prioritization: Countries with high prevalence should allocate more resources to mental health programs.
@@ -44,7 +44,6 @@ Power BI: Dashboard creation
 Power BI/Excel Dashboards: For visuals and interactivity
 
 
-⚠️ Assumptions
-Missing data for some countries/years was excluded.
-
-Disorders were grouped into five broad categories: Anxiety, Depression, Bipolar Disorder, Schizophrenia, and Eating Disorders.
+# Assumptions
+* Missing data for some countries/years was excluded.
+* Disorders were grouped into five broad categories: Anxiety, Depression, Bipolar Disorder, Schizophrenia, and Eating Disorders.
