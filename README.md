@@ -24,9 +24,10 @@ The main database structure, as seen below, consists of one table: table1, with 
 # Executive Summary 
 ## Overview of Findings
 Between 1990 and 2019, mental health disorders increased slightly on a global scale, with anxiety and depression being the most common across all regions. Certain countries consistently recorded higher-than-average prevalence, suggesting possible policy, social, or healthcare access gaps.
-*Anxiety and depression make up over 70% of reported cases globally.
-*Countries like Portugal and New Zealand show persistently high prevalence, suggesting national-level mental health strain.
-*The mental health burden has been rising slowly but steadily, with regional disparities pointing to localized causes.
+
+* Anxiety and depression make up over 70% of reported cases globally.
+* Countries like Portugal and New Zealand show persistently high prevalence, suggesting national-level mental health strain.
+* The mental health burden has been rising slowly but steadily, with regional disparities pointing to localized causes.
 
 ![image](https://github.com/user-attachments/assets/6334f775-4b17-4deb-8dd9-de875f94b0cc)
 # Insights Deep Dive 
