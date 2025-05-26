@@ -27,47 +27,50 @@ Between 1990 and 2019, mental health disorders increased slightly on a global sc
 *Anxiety and depression make up over 70% of reported cases globally.
 *Countries like Portugal and New Zealand show persistently high prevalence, suggesting national-level mental health strain.
 *The mental health burden has been rising slowly but steadily, with regional disparities pointing to localized causes.
+
 ![image](https://github.com/user-attachments/assets/6334f775-4b17-4deb-8dd9-de875f94b0cc)
-# Insights Deep dive 
-*Category 1: Country-Level Prevalence
-**Portugal consistently had one of the highest prevalence rates (~2.8%), particularly in the early 2000s, suggesting national factors such as stress, economic hardship, or healthcare access might contribute.
-**New Zealand remained in the top 5 most affected countries across multiple years, with mental health prevalence averaging over 2.6% — highlighting strong awareness/reporting or potential societal stressors.
-**Palestine and Australia also showed elevated levels. In Palestine’s case, conflict-related trauma may be a major contributing factor.
-**Many African and South Asian nations show lower prevalence, which may reflect underreporting or cultural stigma, rather than genuinely lower rates.
+# Insights Deep Dive 
+## Category 1: Country-Level Prevalence
+* Portugal consistently had one of the highest prevalence rates (~2.8%), particularly in the early 2000s, suggesting national factors such as stress, economic hardship, or healthcare access might contribute.
+* New Zealand remained in the top 5 most affected countries across multiple years, with mental health prevalence averaging over 2.6% — highlighting strong awareness/reporting or potential societal stressors.
+* Palestine and Australia also showed elevated levels. In Palestine’s case, conflict-related trauma may be a major contributing factor.
+* Many African and South Asian nations show lower prevalence, which may reflect underreporting or cultural stigma, rather than genuinely lower rates.
+  
+  ![image](https://github.com/user-attachments/assets/05002e44-4771-42d7-8fd2-ef0fa04d1a93)
 
-Top 5 Countries with the highest mental health prevalence
+## Category 2: Disorder-Type Patterns
+* Anxiety and depression account for over 70% of all mental health disorders reported, dominating every continent.
+* Eating disorders and bipolar disorder remained under 0.3% of the population globally, but showed small regional spikes in North America and Europe.
+* Schizophrenia remained relatively constant over time, with <0.5% of prevalence in nearly all regions.
+* While Western countries report higher anxiety, depression appears more evenly distributed globally, suggesting environmental vs. diagnostic trends.
 
-Disorder Impact Map showing global distribution
+![image](https://github.com/user-attachments/assets/75145115-3e07-40a3-b72c-378079309af1)
 
-Yearly Mental Health Trend showing changes over time
+## Category 3: Yearly Global Trends
+* The global mental health burden gradually increased from 1990 to 2019, especially after 2000.
+* The early 2000s saw a noticeable cyclical dip and recovery, potentially tied to global economic or geopolitical shifts.
+* By 2015–2019, prevalence plateaued around 1.7% globally, suggesting improved intervention or diagnostic stability.
+* Some countries, such as the UK and the USA, saw sharper increases during the 2008–2012 window, possibly due to the global financial crisis.
 
-Disorder Breakdown showing proportions of anxiety, depression, etc.
+## Category 4: Regional Comparisons by Continent
+* Europe consistently had the highest average mental health prevalence, particularly driven by Western Europe.
+* Asia and Africa had the lowest reported rates, but are also regions with data quality or stigma-driven underreporting issues.
+* Oceania (including Australia and New Zealand) stood out with notably high rates, possibly reflecting more transparent reporting systems.
+* North America showed steady increases from 1995 onwards, aligning with growing societal focus on mental health.
 
-Filters by year, continent, and disorder type for interactive exploration
-
-# Insights
-1. Highest Prevalence Countries
-Portugal, New Zealand, and Palestine recorded the highest mental health prevalence (~2.6–2.8%).
-
-2. Disorder Type Trends
-Anxiety and Depression are the most prevalent disorders globally, making up the largest share of mental health issues.
-
-3. Global Trends Over Time
-Mental health prevalence increased from 1990 to 2019, with cyclical rises and dips in the early 2000s.
+![image](https://github.com/user-attachments/assets/488ebb8f-05e1-4eeb-b802-dc20a93f1f47)
 
 # Recommendations
-Policy Prioritization: Countries with high prevalence should allocate more resources to mental health programs.
-
-Awareness Campaigns: Emphasis on anxiety and depression could help target the most affected groups.
-
-Further Analysis: Country-level healthcare policies and funding data could be merged to understand root causes.
-# Tools Used
-Power Query: Data cleaning
-Power BI: Dashboard creation
-
-Power BI/Excel Dashboards: For visuals and interactivity
-
-
+* Policy Prioritization: Countries with high prevalence should allocate more resources to mental health programs.
+* Resource Allocation: Countries like Portugal, New Zealand, and Australia should consider boosting mental health funding and access.
+* Targeted Campaigns: Anxiety and depression should be the focus of public health campaigns, given their dominance.
+* Better Reporting Infrastructure: Encourage consistent data collection in underrepresented regions like Africa and South Asia.
+* Time-Series Monitoring: Continue year-over-year tracking to evaluate the impact of policy and cultural shifts on mental health.
+* Further Analysis: Country-level healthcare policies and funding data could be merged to understand root causes.
+* 
 # Assumptions
-* Missing data for some countries/years was excluded.
-* Disorders were grouped into five broad categories: Anxiety, Depression, Bipolar Disorder, Schizophrenia, and Eating Disorders.
+* Data for some countries and years was incomplete and excluded.
+* Disorders were grouped into five categories for clarity.
+* Prevalence is self-reported or clinically diagnosed — cultural stigma may impact reporting accuracy.
+
+
