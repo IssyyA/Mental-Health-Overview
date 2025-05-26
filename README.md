@@ -1,6 +1,16 @@
 # Project Overview
 This project explores global mental health trends from 1990 to 2019 using a dataset that captures the prevalence of various mental health disorders across countries and continents.
-The dashboard visualizes disorder prevalence, tracks year-over-year trends, and highlights regional differences. Its goal is to provide stakeholders, such as global health researchers or policy analysts, with a high-level overview of how mental health has evolved worldwide.
+The dashboard visualizes disorder prevalence, tracks year-over-year trends, and highlights regional differences. Its goal is to provide stakeholders, such as global health researchers or policy analysts, with a high-level overview of how mental health has evolved worldwide. As a data analyst working on this project, the objective was to extract insights into disorder prevalence, global patterns, and changes over time 
+
+Insights and recommendations are provided on the following key areas:
+
+* Category 1: Country-Level Prevalence Trends
+* Category 2: Disorder-Type Analysis (Anxiety, Depression, etc.)
+* Category 3: Year-over-Year Global Trends
+* Category 4: Regional Comparisons by Continent
+* 
+The Excel workbook used to clean, group, and analyze the data can be found here: [https://docs.google.com/spreadsheets/d/1cX98Ny1oYcVVubqfvtAbv-yJosXB2b6H/edit?gid=1208182609#gid=1208182609]
+The interactive Power BI dashboard used to explore and present insights is available here: [https://app.powerbi.com/groups/me/reports/678f7793-0a9e-4769-a878-d9b9ddd183ad/86769e0c48087a2ae202?experience=power-bi]
 
 # Dataset Description
 The main database structure, as seen below, consists of one table: table1, with a total row count of 30,600 records. A description of the table is as follows:
