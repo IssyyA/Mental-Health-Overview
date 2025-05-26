@@ -8,7 +8,7 @@ Insights and recommendations are provided on the following key areas:
 * Category 2: Disorder-Type Analysis (Anxiety, Depression, etc.)
 * Category 3: Year-over-Year Global Trends
 * Category 4: Regional Comparisons by Continent
-* 
+
 The Excel workbook used to clean, group, and analyze the data can be found [here](https://docs.google.com/spreadsheets/d/1cX98Ny1oYcVVubqfvtAbv-yJosXB2b6H/edit?gid=1208182609#gid=1208182609)
 
 The interactive Power BI dashboard used to explore and present insights is available [here](https://app.powerbi.com/groups/me/reports/678f7793-0a9e-4769-a878-d9b9ddd183ad/86769e0c48087a2ae202?experience=power-bi]
@@ -37,7 +37,7 @@ Between 1990 and 2019, mental health disorders increased slightly on a global sc
 * Palestine and Australia also showed elevated levels. In Palestine’s case, conflict-related trauma may be a major contributing factor.
 * Many African and South Asian nations show lower prevalence, which may reflect underreporting or cultural stigma, rather than genuinely lower rates.
   
-  ![image](https://github.com/user-attachments/assets/05002e44-4771-42d7-8fd2-ef0fa04d1a93)
+![image](https://github.com/user-attachments/assets/05002e44-4771-42d7-8fd2-ef0fa04d1a93)
 
 ## Category 2: Disorder-Type Patterns
 * Anxiety and depression account for over 70% of all mental health disorders reported, dominating every continent.
