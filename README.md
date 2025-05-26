@@ -68,7 +68,7 @@ Between 1990 and 2019, mental health disorders increased slightly on a global sc
 * Better Reporting Infrastructure: Encourage consistent data collection in underrepresented regions like Africa and South Asia.
 * Time-Series Monitoring: Continue year-over-year tracking to evaluate the impact of policy and cultural shifts on mental health.
 * Further Analysis: Country-level healthcare policies and funding data could be merged to understand root causes.
-* 
+
 # Assumptions
 * Data for some countries and years was incomplete and excluded.
 * Disorders were grouped into five categories for clarity.
