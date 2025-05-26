@@ -9,8 +9,9 @@ Insights and recommendations are provided on the following key areas:
 * Category 3: Year-over-Year Global Trends
 * Category 4: Regional Comparisons by Continent
 * 
-The Excel workbook used to clean, group, and analyze the data can be found here[https://app.powerbi.com/groups/me/reports/678f7793-0a9e-4769-a878-d9b9ddd183ad/86769e0c48087a2ae202?experience=power-bi]([url](https://app.powerbi.com/groups/me/reports/678f7793-0a9e-4769-a878-d9b9ddd183ad/86769e0c48087a2ae202?experience=power-bi)): [https://docs.google.com/spreadsheets/d/1cX98Ny1oYcVVubqfvtAbv-yJosXB2b6H/edit?gid=1208182609#gid=1208182609]
-The interactive Power BI dashboard used to explore and present insights is available here: [https://app.powerbi.com/groups/me/reports/678f7793-0a9e-4769-a878-d9b9ddd183ad/86769e0c48087a2ae202?experience=power-bi]
+The Excel workbook used to clean, group, and analyze the data can be found [here](https://docs.google.com/spreadsheets/d/1cX98Ny1oYcVVubqfvtAbv-yJosXB2b6H/edit?gid=1208182609#gid=1208182609)
+The interactive Power BI dashboard used to explore and present insights is available [here](https://app.powerbi.com/groups/me/reports/678f7793-0a9e-4769-a878-d9b9ddd183ad/86769e0c48087a2ae202?experience=power-bi]
+)
 
 # Dataset Description
 The main database structure, as seen below, consists of one table: table1, with a total row count of 30,600 records. A description of the table is as follows:
