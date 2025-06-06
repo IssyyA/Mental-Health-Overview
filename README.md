@@ -11,8 +11,7 @@ Insights and recommendations are provided on the following key areas:
 
 The Excel workbook used to clean, group, and analyze the data can be found [here](https://docs.google.com/spreadsheets/d/1cX98Ny1oYcVVubqfvtAbv-yJosXB2b6H/edit?gid=1208182609#gid=1208182609)
 
-The interactive Power BI dashboard used to explore and present insights is available [here](https://app.powerbi.com/groups/me/reports/678f7793-0a9e-4769-a878-d9b9ddd183ad/86769e0c48087a2ae202?experience=power-bi]
-)
+The interactive Power BI dashboard used to explore and present insights is available [here](https://app.powerbi.com/reportEmbed?reportId=87671524-ae90-4a0b-86c5-1d93adcecaf3&autoAuth=true&ctid=66812d80-c580-4a79-a047-d8e93519fce3)
 
 # Dataset Description
 The main database structure, as seen below, consists of one table: table1, with a total row count of 30,600 records. A description of the table is as follows:
